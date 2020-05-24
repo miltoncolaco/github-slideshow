@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+body: sea shells seen lying on sea floor
 Use the left arrow to go back!
